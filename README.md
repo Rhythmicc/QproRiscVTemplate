@@ -5,7 +5,7 @@
 | name      | url                                                          |
 | --------- | ------------------------------------------------------------ |
 | riscv-gcc | https://occ.t-head.cn/community/download?id=4090445921563774976 |
-| qemu      | https://occ.t-head.cn/community/download?id=636946310057951232 |
+| qemu      | https://occ.t-head.cn/community/download?id=4108987827910414336 |
 
 1. download and extract them to `/opt`
 
