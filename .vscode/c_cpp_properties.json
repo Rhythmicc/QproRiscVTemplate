@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/gcc-riscv/lib/gcc/riscv64-unknown-linux-gnu/10.2.0/include"
+            ],
+            "defines": [],
+            "compilerPath": "/opt/gcc-riscv/bin/riscv64-unknown-linux-gnu-gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerArgs": [
+                "-static",
+                "-O3",
+                "-march=rv64imafdcv0p7_zfh_xtheadc",
+                "-mabi=lp64d",
+                "-mtune=c920"
+            ]
+        }
+    ],
+    "version": 4
+}

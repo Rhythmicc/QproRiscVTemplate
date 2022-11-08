@@ -4,8 +4,8 @@
 
 | name      | url                                                          |
 | --------- | ------------------------------------------------------------ |
-| riscv-gcc | https://occ.t-head.cn/community/download?id=4049193882418745344 |
-|           | https://occ.t-head.cn/community/download?id=636946310057951232 |
+| riscv-gcc | https://occ.t-head.cn/community/download?id=4090445921563774976 |
+| qemu      | https://occ.t-head.cn/community/download?id=636946310057951232 |
 
 1. download and extract them to `/opt`
 
@@ -17,8 +17,6 @@
    ```sh
    export PATH=$PAHT:/opt/gcc-riscv/bin:/opt/qemu/bin
    ```
-
-   
 
 ## Usage
 

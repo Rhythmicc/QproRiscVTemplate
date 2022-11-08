@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cu": "cpp",
+        "*.vt": "verilog",
+        "riscv_vector.h": "c",
+        "stdio.h": "c"
+    }
+}
